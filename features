@@ -27,27 +27,79 @@ Feature: Users should log in to the system
     Then users doesn't log in
      And a registration platform pops-up
     
- Feature: Users should see all the titles from the books of the system
-  Scenario
+ Feature: Users shouly pick system's language
+   
+ Feature: Users should see all the titles from the books of the system on home screen
   
- Feature: Users should open a book
-  Scenario: user read the book
+ Feature: Users should read the summary of the book
+  Scenario: user wants to buy the book
+    Given user wants to buy the book
+    Then user approves for downloading the book
+  Scenario: user wants to buy the book
+    Given user doesn't want to buy the book
+    Then user sees the titles from the other books of the system
+  
+ Feature: Users should buy a book
+  Scenario: user buys the book
+    Given user approves for downloading the book
+    Then user proceeds with the payment
+  
+ Feature: Users should download a book
+  Scenario: Download book
+    Given users download a book
+    Then a pop-up window appears for personal use agreement
+ 
+Feature: Users should open a book
+  Scenario: user reads the book
     Given user reads the book
     Then user can rate the book
      And user can write a critic
      
+ Feature: The system should permit users only one critic per book
+  Scenario: user has not written a critic for the book
+    Given user has not written a critic for the book
+    Then user can write a critic
+   Scenario: user has written a critic for the book
+    Given user has written a critic for the book
+    Then user is not allowed to write a critic by the system
+    
+ Feature: The system should permit users to rate only once per book
+  Scenario: user has not rated the book
+    Given user user has not rated the book
+    Then user can rate the book
+   Scenario: user has rated the book
+    Given user user has  rated the book
+    Then user is not allowed to rate the book by the system 
+ 
  Feature: Users should upload their personal book
+  Scenario: user is logged in the system
+    Given user is logged in the system
+    Then user the upload is done
+  Scenario: user is not logged in the system
+    Given user is not logged in the system
+    Then a pop-up window appears for user to log in
+ 
+ Feature: Users should upload their personal book with a title
   Scenario: title is already used
     Given the title of their book is already used
     Then the system adds the upload date in the end of the title
-  Sceanrio: title is unique
+  Scenario: title is unique
     Given the title is unique
     Then the upload is done
     
- Feature: Users should download books
-  Scenario: Download book
-    Given users download a book
-    Then a pop-up window appears for personal use agreement
-  
+ Feature: Users should subscribe other users
+  Scenario: User subscribes other users
+    Given user subscribes other users
+    Then user gets notified by other user's actions
  
+ Feature: The system should permit users to search books using keywords
+  Scenario: user writes a keyword that is included in the system
+    Given user writes a keyword that is included in the system
+    Then the system shows the titles that contain the keyword
+  Scenario: user writes a keyword that is not included in the system
+    Given user writes a keyword that is not included in the system
+    Then the system shows no results
     
+ Feature: Users should filter the books that showed up on homescreen by "desired fields"
+ 
+ Feature: Users should create a list with the books they want to read
