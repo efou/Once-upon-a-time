@@ -61,7 +61,15 @@ Feature: Users should open a book
     Then user can write a critic
    Scenario: user has written a critic for the book
     Given user has written a critic for the book
-    Then user is not allowed to write a critic
+    Then user is not allowed to write a critic by the system
+    
+ Feature: The system should permit users to rate only once per book
+  Scenario: user has not rated the book
+    Given user user has not rated the book
+    Then user can rate the book
+   Scenario: user has rated the book
+    Given user user has  rated the book
+    Then user is not allowed to rate the book by the system 
  
  Feature: Users should upload their personal book
   Scenario: user is logged in the system
