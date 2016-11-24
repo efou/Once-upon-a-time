@@ -1,0 +1,53 @@
+Feature: Users should register in the system
+  Scenario: facebook
+    Given a facebook account
+    Then the registration is done
+  Scenario: google plus
+    Given a google plus account
+    Then the registration is done
+  Scenario: email
+    Given an e-mail account
+      And a code
+    Then the registration is done 
+  
+Feature: Users should agree for personal use only
+  Scenario: users agree
+    Given users agree for personal use only
+    Then the registration is done
+  Scenario: users doesn't agree
+    Given users doesn't agree
+    Then the registration can't be done
+
+Feature: Users should log in to the system
+  Scenario: with an account
+    Given a registration account
+    Then log in is done
+  Scenario: with no account
+    Given no registration account
+    Then users doesn't log in
+     And a registration platform pops-up
+    
+ Feature: Users should see all the titles from the books of the system
+  Scenario
+  
+ Feature: Users should open a book
+  Scenario: user read the book
+    Given user reads the book
+    Then user can rate the book
+     And user can write a critic
+     
+ Feature: Users should upload their personal book
+  Scenario: title is already used
+    Given the title of their book is already used
+    Then the system adds the upload date in the end of the title
+  Sceanrio: title is unique
+    Given the title is unique
+    Then the upload is done
+    
+ Feature: Users should download books
+  Scenario: Download book
+    Given users download a book
+    Then a pop-up window appears for personal use agreement
+  
+ 
+    
