@@ -103,3 +103,5 @@ Feature: Users should open a book
  Feature: Users should filter the books that showed up on homescreen by "desired fields"
  
  Feature: Users should create a list with the books they want to read
+
+ Feature: Users should delete a personal upload
