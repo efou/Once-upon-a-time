@@ -1,0 +1,11 @@
+feature: The system should not allow insulting phrases
+
+  Scenario users message using insulting phrases
+    Given users message using insulting phrases
+    Then the system sends a warning message about insulting phrases
+    
+    Scenario 
+     Given user doesn't edit the insulting content of the message
+     Then the system doesn't permit the action
+    
+    
