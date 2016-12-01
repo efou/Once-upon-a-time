@@ -1,4 +1,4 @@
-feature: the system should respond to the actions of the user within 10 ms
+feature: the system should respond to the actions of the user within 1 s
 
   scenario: the system responds within 1 s
     Given the system responds within 1 s
