@@ -1,4 +1,4 @@
-feature: user shouil upload a book up to 30 Mb
+feature: user should upload a book up to 30 Mb
 
   scenario: user uploads a book up to 30 Mb 
       Given user uploads a book up to 30 Mb 
