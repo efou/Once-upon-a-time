@@ -5,4 +5,4 @@ Feature: Users should log in to the system
   Scenario: with no account
     Given no registration account
     Then users doesn't log in
-And a registration platform pops-up
+    And a registration platform pops-up
