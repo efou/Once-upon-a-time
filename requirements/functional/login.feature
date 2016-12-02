@@ -1,12 +1,12 @@
 Feature: Users should log in to the system
 
   Scenario: with no account
-    Given no registration account
+    Given no verified account
     Then users doesn't log in
     And a registration platform pops-up
     
   Scenario: with an account
-    Given a registration account
+    Given a verified account
     Then the system asks from user his username and password
     
   Scenario: right personal data
