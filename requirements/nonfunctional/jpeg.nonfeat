@@ -8,3 +8,4 @@ feature: users should upload their profile picture as jpeg file
     Given user tries to upload another type of file
     Then the upload fails
     And a message appears about the compatibility of the picture
+    
