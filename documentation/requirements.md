@@ -14,7 +14,7 @@ User Priority: 4/5 Η δυνατότητα ή μη της πιστοποίηση
 Technical Priority: 2/5 Δε παρατηρείται καμία ιδιαίτερη δυσκολία για την ομάδα ανάπτυξης (ΟΑ) ώστε να ικανοποιηθεί η συγκεκριμένη απαίτηση.
 **User Priority:** 4/5 The possibility of a ceritification account concerns all users
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
-(https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/register.feature)
+[Register](https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/register.feature)
 
 ### FR-2
 
