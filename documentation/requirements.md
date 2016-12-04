@@ -12,9 +12,11 @@ User should register in the system
 If user has a facebook or a google plus account the registration will be done with these accounts, otherwise he will write an email account and a code and the system will send an email for verification. If user verify his account, the registration will be done.
 User Priority: 4/5 Η δυνατότητα ή μη της πιστοποίησης αφορά άμεσα τον κάθε ενδιαφερόμενο χρήστη.
 Technical Priority: 2/5 Δε παρατηρείται καμία ιδιαίτερη δυσκολία για την ομάδα ανάπτυξης (ΟΑ) ώστε να ικανοποιηθεί η συγκεκριμένη απαίτηση.
+
 **User Priority:** 4/5 The possibility of a ceritification account concerns all users
+
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
-[Register](https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/register.feature)
+#### User story[Register](https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/register.feature)
 
 ### FR-2
 
