@@ -46,6 +46,35 @@ User can pick the language he uses for the application, and what he selects will
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/language.feature
 
 
+### FR-4
+
+User should upload a picture on his personal profile
+
+**Description**
+
+User can upload a photograph that will be displayed on his profile.
+
+**User Priority:** 2/5 This requirement mainly contributes to usability of the application, but without limiting the user.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/photo.feature
+
+
+### FR-5
+
+User should create a username
+
+**Description**
+
+User can pick the language he uses for the application, and what he selects will apply to all application's products. Initially the application have Greek as default language, but it is necessary to have at least an international language.
+
+**User Priority:** 2/5 This requirement mainly contributes to usability of the application, but without limiting the user.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/photo.feature
+
 
 
 #### User story
