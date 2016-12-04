@@ -16,7 +16,7 @@ Technical Priority: 2/5 Δε παρατηρείται καμία ιδιαίτε�
 **User Priority:** 4/5 The possibility of a ceritification account concerns all users
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
-#### User story[Register](https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/register.feature)
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/register.feature
 
 ### FR-2
 
