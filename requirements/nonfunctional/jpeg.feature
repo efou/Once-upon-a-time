@@ -1,4 +1,4 @@
-Feature: users should upload their profile picture as jpeg file
+Feature: user should upload their profile picture as jpeg file
 
    Scenario: user uploads a jpeg file
     Given user uploads a jpeg file
