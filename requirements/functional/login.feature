@@ -1,4 +1,4 @@
-Feature: Users should log in to the system
+Feature: User should log in to the system
 
   Scenario: with no account
     Given no verified account
