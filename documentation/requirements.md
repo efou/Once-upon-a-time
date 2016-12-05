@@ -381,3 +381,99 @@ Representation of all users and user stories/use cases
 Create activity diagrams to portray the flow of basic user process in the system.
 
 ## Mockups and Storyboards
+
+Put the link to the relevant storyboard.md files that display how one goes from one mockup to another.
+
+
+
+
+
+## Non-Functional Requirements
+
+### NFR-1
+
+User should agree for personal use only to register
+
+**Description**
+
+If a user wants to register he should agree that he will use the content for his own personal so as to provide protection users' uploads.
+
+**User Priority:** 5/5 This requirement is important for the user as it ensures his upload's protection. Dissatisfaction of this requirement probably will prevent people from using the application.
+
+**Technical Priority:** 2/5 There are several well-known and effective methods for the implementation of this requirement. The OA team will not face significant difficulty.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/personal_use.feature
+
+### NFR-2
+
+The system should respect the privacy policy in accordance with applicable legislation.
+
+**Description**
+
+If a user wants to register he should agree that he will use the content for his own personal so as to provide protection users' uploads.
+
+**User Priority:** 5/5 This requirement is important for the user as it ensures rotection of his personal data. Dissatisfaction of this requirement probably will prevent people from using the application. 
+
+**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/privacy_policy.feature
+
+
+### NFR-3
+
+The system should respond to the actions of the user within 1 s
+
+**Description**
+
+The system should respond within 1 s, otherwise the user should retry the action. So, the system should be able to perform quick searches in databases.
+
+**User Priority:** 5/5 This requirement is important for the user as it releases himo from time-consuming procedures and contributes to the usability of the application.
+
+**Technical Priority:** 3/5 The OA team will not face significant difficulty.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/systems_response.feature
+
+
+### NFR-4
+
+The system should support an unlimited number of books that can be registered
+
+**Description**
+
+Practically the number of books that can be registered in the system should be very large.
+
+**User Priority:** 4/5  The greater the number of books that are registered in the system, the better for the users.
+
+**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_books.feature
+
+
+### NFR-5
+
+The system should support an unlimited number of books that can be registered
+
+**Description**
+
+Practically the number of users who can use the system simultaneously will be very large
+
+**User Priority:** 1/5  Users are not interested if the system simultaneously used by many other users or not.
+
+**Technical Priority:** 4/5 The implementation of this requirement is very important and difficult by OA team.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_users.feature
+
+
+### NFR-5
+
+The system should support an unlimited number of books that can be registered
+
+**Description**
+
+Practically the number of users who can use the system simultaneously will be very large
+
+**User Priority:** 1/5  Users are not interested if the system simultaneously used by many other users or not.
+
+**Technical Priority:** 4/5 The implementation of this requirement is very important and difficult by OA team.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_users.feature
