@@ -149,9 +149,26 @@ User can create a list named "want to read" with the books he wants to read late
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/create_a_list.feature
 
 
+
 ### FR-11
 
-User should should buy a book
+User should read the summary of the book
+
+**Description**
+
+User can read a summary a book so as to decide if he wants it to buy it.
+
+**User Priority:**  5/5 This requirement is very important for the user.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/summary.feature
+
+
+
+### FR-12
+
+User should buy a book
 
 **Description**
 
@@ -165,7 +182,7 @@ User can buy a book he wants to read. He should approve for downloading the book
 
 
 
-### FR-12
+### FR-13
 
 User should pay for a book
 
@@ -181,7 +198,7 @@ User should pay for a book so as to download it. He prompts to view the order an
 
 
 
-### FR-13
+### FR-14
 
 User should download a book
 
@@ -197,7 +214,7 @@ User can download a book given that he pays for it and he agrees for personal, n
 
 
 
-### FR-14
+### FR-15
 
 User should write a critic for a book
 
@@ -213,7 +230,7 @@ User can write a critic for a book, given that he has downloaded it.
 
 
 
-### FR-15
+### FR-16
 
 The system should permit users to rate 
 
@@ -226,6 +243,140 @@ User can rate a book, given that he has downloaded it.
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/rate.feature
+
+
+
+### FR-17
+
+User should message the author of a book
+
+**Description**
+
+User can communicate with the author of a book, so as to ask him information, to tell his opinion about his work or to discuss.
+
+**User Priority:**  4/5 This requirement is important for the user.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/message_author.feature
+
+
+
+### FR-18
+
+User should upload his personal book
+
+**Description**
+
+A registered user who is logged in the system can upload his personal book, given that the book fulfills the requirements.
+
+**User Priority:**  5/5 This requirement is very important for the user.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/upload.feature
+
+
+
+### FR-19
+
+User should delete a personal upload
+
+**Description**
+
+A registered user who has uploaded a book should have the possibility of deleting his upload.
+
+**User Priority:**  5/5 This requirement is very important for the user.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete.feature
+
+
+### FR-20
+
+User should delete a personal upload
+
+**Description**
+
+A registered user who has uploaded a book should have the possibility of deleting his upload.
+
+**User Priority:**  5/5 This requirement is very important for the user.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete.feature
+
+
+
+### FR-21
+
+User should subscribe other users
+
+**Description**
+
+User can subscribe other users so as to get notified by other user's actions, like uploads, downloads, rates, critics and "want to read" lists.
+
+**User Priority:**  5/5 This requirement concerns the user, as he can find books he likes.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/subscribe.feature
+
+
+
+### FR-22
+
+User should receive a message by other users
+
+**Description**
+
+User can receive a message by other users and he selects to reply or not.
+
+**User Priority:**  5/5 This requirement concerns the user, as he can fcommunicate with other users.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/receive_message.feature
+
+
+
+### FR-23
+
+User should log out of the system
+
+**Description**
+
+User can be disconnected from the system when he no longer needs its services or when another user wants to connect to its own account from the same terminal. The system should provide security to users when they disconnect.
+
+**User Priority:**  3/5 Significant request, although user does not usually give great importance.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/logout.feature
+
+
+
+### FR-24
+
+User should delete his account
+
+**Description**
+
+User can delete his account when he no longer needs system's services. The system asks user to confirm his decision and it should provide security to users when they delete ther account.
+
+**User Priority:**  3/5 Significant request, although user does not usually give great importance.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete_account.feature
+
+
+
+
+
+
+
 
 
 
