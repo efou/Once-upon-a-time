@@ -293,23 +293,9 @@ A registered user who has uploaded a book should have the possibility of deletin
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete.feature
 
 
+
+
 ### FR-20
-
-User should delete a personal upload
-
-**Description**
-
-A registered user who has uploaded a book should have the possibility of deleting his upload.
-
-**User Priority:**  5/5 This requirement is very important for the user.
-
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
-
-#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete.feature
-
-
-
-### FR-21
 
 User should subscribe other users
 
@@ -325,7 +311,7 @@ User can subscribe other users so as to get notified by other user's actions, li
 
 
 
-### FR-22
+### FR-21
 
 User should receive a message by other users
 
@@ -341,7 +327,7 @@ User can receive a message by other users and he selects to reply or not.
 
 
 
-### FR-23
+### FR-22
 
 User should log out of the system
 
@@ -357,7 +343,7 @@ User can be disconnected from the system when he no longer needs its services or
 
 
 
-### FR-24
+### FR-23
 
 User should delete his account
 
