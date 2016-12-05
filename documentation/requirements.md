@@ -477,3 +477,34 @@ Practically the number of users who can use the system simultaneously will be ve
 **Technical Priority:** 4/5 The implementation of this requirement is very important and difficult by OA team.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_users.feature
+
+
+### NFR-
+
+User should filter the books that showed up on homescreen by "desired fields"
+
+**Description**
+
+User can filter the books that showed up on homescreen by category, by language and by popularity.
+
+**User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
+
+**Technical Priority:** 4/5 The OA team should pay attention to achieve this function.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/homescreen_filter.feature
+
+
+### NFR-
+
+User should upload their profile picture as jpeg file
+
+**Description**
+
+User should upload their profile picture as jpeg file and not as png file. The primary advantage of a JPEG image is a smaller file size for photographic images.
+
+**User Priority:**  5/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/jpeg.feature
+
