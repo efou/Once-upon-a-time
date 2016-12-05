@@ -1,4 +1,4 @@
-Feature: The system should permit users to rate 
+Feature: The system should permit user to rate 
 
   Scenario: user has downloaded the book
     Given user has  downloaded the book
