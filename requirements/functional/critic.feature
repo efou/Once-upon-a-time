@@ -1,4 +1,4 @@
-Feature: Users should write a critic for a book
+Feature: User should write a critic for a book
 
   Scenario: user has downloaded the book
     Given user has  downloaded the book
