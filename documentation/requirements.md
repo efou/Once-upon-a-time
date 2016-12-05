@@ -67,13 +67,76 @@ User should create a username
 
 **Description**
 
-User can pick the language he uses for the application, and what he selects will apply to all application's products. Initially the application have Greek as default language, but it is necessary to have at least an international language.
+User can create a username that will be displayed on his profile and with which other users can search him nad his books.
 
 **User Priority:** 2/5 This requirement mainly contributes to usability of the application, but without limiting the user.
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
-#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/photo.feature
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/username.feature
+
+
+### FR-6
+
+User should edit personal data
+
+**Description**
+
+User can change his personal data like username, name, birthday and biography.
+
+**User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+
+### FR-7
+
+User should change password
+
+**Description**
+
+User can change his password, given that he writes correctly the previous password.
+
+**User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/change_password.feature
+
+
+### FR-8
+
+User should see all the titles from the books of the system on home page
+
+**Description**
+
+User can see on the main web page of the website all the titles from the books.
+
+**User Priority:**  5/5 This requirement is important for the user.
+
+**Technical Priority:** 4/5 The OA team should pay attention for the implementation of this requirement
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/home_page.feature
+
+
+### FR-9
+
+The system should permit user to search books
+
+**Description**
+
+User can search a book with a keyword and the system shows a list of titles that contain the keyword.
+
+**User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
+
+**Technical Priority:** 4/5 The OA team should pay attention to achieve this function.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/search.feature
+
+
+
+
+
 
 
 
