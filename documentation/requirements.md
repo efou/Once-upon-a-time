@@ -464,22 +464,52 @@ Practically the number of users who can use the system simultaneously will be ve
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_users.feature
 
 
-### NFR-5
+### NFR-6
 
-The system should support an unlimited number of books that can be registered
+Password should contain both letters and numbers
 
 **Description**
 
-Practically the number of users who can use the system simultaneously will be very large
+Password should contain both letters and numbers so as to be strong and highly secure.
 
-**User Priority:** 1/5  Users are not interested if the system simultaneously used by many other users or not.
+**User Priority:**  5/5 This requirement the strong password is the key for protecting personal data and assets online
 
-**Technical Priority:** 4/5 The implementation of this requirement is very important and difficult by OA team.
+**Technical Priority:** 2/5 The OA team will not face significant difficulty.
 
-#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_users.feature
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/password.feature
 
 
-### NFR-
+### NFR-7
+
+User should submit a password that not contains username 
+
+**Description**
+
+Password should not contain username so as to be strong and highly secure.
+
+**User Priority:**  5/5 This requirement the strong password is the key for protecting personal data and assets online
+
+**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/password_username.feature
+
+
+### NFR-8
+
+User should try only 5 times to login with invalid personal data
+
+**Description**
+
+If user has made 5 failed login attempts for his account the system sends a message to user's email with his personal data, for security reasons. 
+
+**User Priority:**  5/5 This requirement is important for the user for his protection.
+
+**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/password_5times.feature
+
+
+### NFR-9
 
 User should filter the books that showed up on homescreen by "desired fields"
 
@@ -494,7 +524,7 @@ User can filter the books that showed up on homescreen by category, by language 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/homescreen_filter.feature
 
 
-### NFR-
+### NFR-10
 
 User should upload their profile picture as jpeg file
 
@@ -507,4 +537,34 @@ User should upload their profile picture as jpeg file and not as png file. The p
 **Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/jpeg.feature
+
+### NFR-11
+
+User should upload a profile picture up to 2 Mb
+
+**Description**
+
+User should upload a photograph that is up to 2Mb
+
+**User Priority:**  5/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/picture2Mb.feature
+
+
+### NFR-12
+
+User should upload a profile picture up to 2 Mb
+
+**Description**
+
+User should upload a photograph that is up to 2Mb
+
+**User Priority:**  5/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/picture2Mb.feature
+
 
