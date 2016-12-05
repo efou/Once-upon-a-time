@@ -1,4 +1,4 @@
- Feature: Users should download a book
+ Feature: User should download a book
  
   Scenario: Download book
     Given user pays for a book
