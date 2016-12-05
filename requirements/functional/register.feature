@@ -1,4 +1,4 @@
-Feature: Users should register in the system
+Feature: User should register in the system
 
   Scenario: facebook
     Given a facebook account
