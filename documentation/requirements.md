@@ -293,8 +293,6 @@ A registered user who has uploaded a book should have the possibility of deletin
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete.feature
 
 
-
-
 ### FR-20
 
 User should subscribe other users
@@ -303,7 +301,7 @@ User should subscribe other users
 
 User can subscribe other users so as to get notified by other user's actions, like uploads, downloads, rates, critics and "want to read" lists.
 
-**User Priority:**  5/5 This requirement concerns the user, as he can find books he likes.
+**User Priority:** 5/5 This requirement concerns the user, as he can find books he may like.
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
@@ -319,7 +317,7 @@ User should receive a message by other users
 
 User can receive a message by other users and he selects to reply or not.
 
-**User Priority:**  5/5 This requirement concerns the user, as he can fcommunicate with other users.
+**User Priority:**  5/5 This requirement concerns the user, as he can communicate with other users.
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
@@ -412,7 +410,7 @@ The system should respect the privacy policy in accordance with applicable legis
 
 If a user wants to register he should agree that he will use the content for his own personal so as to provide protection users' uploads.
 
-**User Priority:** 5/5 This requirement is important for the user as it ensures rotection of his personal data. Dissatisfaction of this requirement probably will prevent people from using the application. 
+**User Priority:** 5/5 This requirement is important for the user as it ensures protection of his personal data. Dissatisfaction of this requirement probably will prevent people from using the application. 
 
 **Technical Priority:** 2/5 The OA team will not face significant difficulty.
 
@@ -487,7 +485,7 @@ User should submit a password that not contains username
 
 Password should not contain username so as to be strong and highly secure.
 
-**User Priority:**  5/5 This requirement the strong password is the key for protecting personal data and assets online
+**User Priority:**  5/5 This requirement is important for the user because the strong password is the key for protecting personal data and assets online
 
 **Technical Priority:** 2/5 The OA team will not face significant difficulty.
 
@@ -568,3 +566,87 @@ User should upload a photograph that is up to 2Mb
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/picture2Mb.feature
 
 
+### NFR-13
+
+User should upload a book up to 30 Mb
+
+**Description**
+
+User should upload a book that is up to 30 Mb
+
+**User Priority:**  5/5 This requirement is very important for the user because his upload sould fulfill the requirements.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/uploadMb.feature
+
+### NFR-14
+
+A book should cost less than 40 euros
+
+**Description**
+
+When a user uploads a book, he should charge it less than 40 euro. In this way the books will not be overvalued.
+
+**User Priority:**  4/5 This requirement is important for the user.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/price.feature
+
+### NFR-15
+
+User should upload their personal book with a unique title
+
+**Description**
+
+When a user uploads a book, the title of the book should be unique, otherwise the system adds the upload date in the end of the title.
+
+**User Priority:**  3/5 This requirement is not very important for the user.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unique_title.feature
+
+### NFR-16
+
+User should pay for a book via paypal 
+
+**Description**
+
+If user wants to buy a book, he should have a paypal account beacuse PayPal keeps financial information securely encrypted and user can also get Purchase Protection for all eligible transactions.
+
+**User Priority:**  5/5 This requirement is important for the user, as he has to have PayPal account to buy a book.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/paypal.feature
+
+
+### NFR-17
+
+The system should permit users to rate only once per book
+
+**Description**
+
+A user can rate a book if he has downloaded, given he has not already rated it.
+
+**User Priority:**  2/5 This requirement is not very important for the user, as he can rate a book once. 
+
+**Technical Priority:** 3/5 There is some difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/rate_once.feature
+
+
+### NFR-18
+
+The system should not allow swear words
+
+**Description**
+
+When a user make a critic for a book or sends a message, he shouldn't use swear words. There is a list of words in the system that are not allowed to be used
+
+**User Priority:**  5/5 This requirement is very important for the user, as he can communicate with other users politely.
+**Technical Priority:** 4/5 There is some difficulty for OA team to make the list of swear words correctly.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/insulting_phrases.feature
