@@ -1,5 +1,5 @@
-Feature: Users should see all the titles from the books of the system on home screen
+Feature: Users should see all the titles from the books of the system on home page
 
-  Scenario: books are filtered by "desired fields" on homescreen
-    Given user filters the books that showed up on homescreen by "desired fields"
-    Then the system shows on homescreen the fresh uploads by "desired fields"
+  Scenario: books are filtered by "desired fields" on home page
+    Given user filters the books that showed up on home page by "desired fields"
+    Then the system shows on home page the fresh uploads by "desired fields"
