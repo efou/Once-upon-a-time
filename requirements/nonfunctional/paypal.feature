@@ -1,10 +1,10 @@
-feature: User should pay for a book via paypal 
+Feature: User should pay for a book via PayPal 
 
-  scenario: User already has a paypal account
-    Given user has a paypal account 
+  Scenario: User already has a PayPal account
+    Given user has a PayPal account 
     Then user proceeds with the payment
     
-  scenario: User doesn't have a paypal account
-    Given user doesn't have a paypal account 
+  Scenario: User doesn't have a PayPal account
+    Given user doesn't have a PayPal account 
     Then the system allows the user to create a paypal account
     
