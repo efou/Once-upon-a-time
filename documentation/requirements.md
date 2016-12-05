@@ -54,7 +54,7 @@ User should upload a picture on his personal profile
 
 User can upload a photograph that will be displayed on his profile.
 
-**User Priority:** 2/5 This requirement mainly contributes to usability of the application, but without limiting the user.
+**User Priority:** 3/5 This requirement facilitates the user so concerns him directly.
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
@@ -69,7 +69,7 @@ User should create a username
 
 User can create a username that will be displayed on his profile and with which other users can search him nad his books.
 
-**User Priority:** 2/5 This requirement mainly contributes to usability of the application, but without limiting the user.
+**User Priority:** 4/5 This requirement greatly facilitates the user so concerns him directly.
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
@@ -97,7 +97,7 @@ User should change password
 
 User can change his password, given that he writes correctly the previous password.
 
-**User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
+**User Priority:**  4/5 The possibility of changing the password concerns all users.
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
@@ -134,7 +134,98 @@ User can search a book with a keyword and the system shows a list of titles that
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/search.feature
 
 
+### FR-10
 
+User should create a list with the books they want to read
+
+**Description**
+
+User can create a list named "want to read" with the books he wants to read later. 
+
+**User Priority:**  4/5 This requirement greatly facilitates the user so concerns him directly.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/create_a_list.feature
+
+
+### FR-11
+
+User should should buy a book
+
+**Description**
+
+User can buy a book he wants to read. He should approve for downloading the book and then he proceeds with the payment
+
+**User Priority:**  2/5 This requirement mainly contributes to usability of the application, but without limiting the user.
+
+**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/buy.feature
+
+
+
+### FR-12
+
+User should pay for a book
+
+**Description**
+
+User should pay for a book so as to download it. He prompts to view the order and agree with the payment's amount.
+
+**User Priority:**  2/5 This requirement mainly contributes to usability of the application.
+
+**Technical Priority:** 3/5 There is some particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/payment.feature
+
+
+
+### FR-13
+
+User should download a book
+
+**Description**
+
+User can download a book given that he pays for it and he agrees for personal, non-commercial use to individuals only.
+
+**User Priority:**  2/5 This requirement mainly contributes to usability of the application.
+
+**Technical Priority:** 3/5 There is some particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/download.feature
+
+
+
+### FR-14
+
+User should write a critic for a book
+
+**Description**
+
+User can write a critic for a book, given that he has downloaded it.
+
+**User Priority:**  3/5 This requirement contributes to usability of the application and concerns user.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/critic.feature
+
+
+
+### FR-15
+
+The system should permit users to rate 
+
+**Description**
+
+User can rate a book, given that he has downloaded it.
+
+**User Priority:**  3/5 This requirement contributes to usability of the application and concerns user.
+
+**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/rate.feature
 
 
 
