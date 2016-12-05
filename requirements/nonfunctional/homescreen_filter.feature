@@ -1,4 +1,4 @@
-Feature: Users should filter the books that showed up on homescreen by "desired fields"
+Feature: User should filter the books that showed up on homescreen by "desired fields"
 
   Scenario: books are filtered by category on homescreen
     Given user filters the books that showed up on homescreen by category
