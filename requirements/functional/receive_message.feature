@@ -1,4 +1,4 @@
-Feature: Users should receive a message by other users
+Feature: User should receive a message by other users
 
   Scenario: User wants to reply to the message 
     Given User wants to reply to the message 
