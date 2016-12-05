@@ -551,22 +551,8 @@ User should upload a photograph that is up to 2Mb
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/picture2Mb.feature
 
 
+
 ### NFR-12
-
-User should upload a profile picture up to 2 Mb
-
-**Description**
-
-User should upload a photograph that is up to 2Mb
-
-**User Priority:**  5/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
-
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
-
-#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/picture2Mb.feature
-
-
-### NFR-13
 
 User should upload a book up to 30 Mb
 
@@ -580,7 +566,7 @@ User should upload a book that is up to 30 Mb
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/uploadMb.feature
 
-### NFR-14
+### NFR-13
 
 A book should cost less than 40 euros
 
@@ -594,7 +580,7 @@ When a user uploads a book, he should charge it less than 40 euro. In this way t
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/price.feature
 
-### NFR-15
+### NFR-14
 
 User should upload their personal book with a unique title
 
@@ -608,7 +594,7 @@ When a user uploads a book, the title of the book should be unique, otherwise th
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unique_title.feature
 
-### NFR-16
+### NFR-15
 
 User should pay for a book via paypal 
 
@@ -623,7 +609,7 @@ If user wants to buy a book, he should have a paypal account beacuse PayPal keep
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/paypal.feature
 
 
-### NFR-17
+### NFR-16
 
 The system should permit users to rate only once per book
 
@@ -638,7 +624,7 @@ A user can rate a book if he has downloaded, given he has not already rated it.
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/rate_once.feature
 
 
-### NFR-18
+### NFR-17
 
 The system should not allow swear words
 
@@ -649,4 +635,4 @@ When a user make a critic for a book or sends a message, he shouldn't use swear 
 **User Priority:**  5/5 This requirement is very important for the user, as he can communicate with other users politely.
 **Technical Priority:** 4/5 There is some difficulty for OA team to make the list of swear words correctly.
 
-#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/insulting_phrases.feature
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/swear%20words.feature
