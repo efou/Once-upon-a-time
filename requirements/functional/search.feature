@@ -1,4 +1,4 @@
- Feature: The system should permit users to search books
+ Feature: The system should permit user to search books
  
   Scenario: user writes a keyword that is included in the system
     Given user writes a keyword that is included in the system
