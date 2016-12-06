@@ -6,4 +6,4 @@
     
   Scenario: user writes a keyword that is not included in the system
     Given user writes a keyword that is not included in the system
-    Then the system shows no results
+    Then the system shows a message that there is no results
