@@ -106,7 +106,7 @@ User can change his password, given that he writes correctly the previous passwo
 
 ### FR-8
 
-User should see all the titles from the books of the system on home page
+User should see all the titles from the books of the system on homepage
 
 **Description**
 
@@ -116,7 +116,7 @@ User can see on the main web page of the website all the titles from the books.
 
 **Technical Priority:** 4/5 The OA team should pay attention for the implementation of this requirement
 
-#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/home_page.feature
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/homepage.feature
 
 
 ### FR-9
@@ -509,17 +509,17 @@ If user has made 5 failed login attempts for his account the system sends a mess
 
 ### NFR-9
 
-User should filter the books that showed up on homescreen by "desired fields"
+User should filter the books that showed up on homepage by "desired fields"
 
 **Description**
 
-User can filter the books that showed up on homescreen by category, by language and by popularity.
+User can filter the books that showed up on homepage by category, by language and by popularity.
 
 **User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
 
 **Technical Priority:** 4/5 The OA team should pay attention to achieve this function.
 
-#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/homescreen_filter.feature
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/homepage_filter.feature
 
 
 ### NFR-10
