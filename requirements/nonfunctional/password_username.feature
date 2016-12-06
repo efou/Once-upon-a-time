@@ -5,6 +5,6 @@ Feature: User should submit a password that not contains username
     Then the password is accepted
     
   Scenario: Password contains username
-    Given user submits a password that contains username
+    Given user submits a password that contains his username
     Then the password is not accepted
-    And the system shows a message to user for not using his username
+    And the system shows a message to the user that password can not contain his username
