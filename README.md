@@ -10,6 +10,8 @@
 A web page where all the writers upon the world can upload their own work.
 Fiction literature offering stories, novels, fables, fairy tales, drama, mystery, fantasy, westerns. Just pick what you prefer
 
+the door to unlimited reading.
+
 ## Table of Contents
 
 Links to the documents you have created
