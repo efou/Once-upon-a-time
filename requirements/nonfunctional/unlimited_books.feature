@@ -1,1 +1,1 @@
-  Feature: The system should support an unlimited numberr of books that can be registered
+  Feature: The system should support an unlimited number of books that users upload
