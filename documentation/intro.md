@@ -20,7 +20,7 @@ It is the software project we have undertaken to implement.
 
 **User priority**
 
-Η προτεραιότητα/σημασία που έχει για τον τελικό χρήστη του συστήματος μία από τις απαιτήσεις του συστήματος. 
+Η προτεραιότητα/σημασία που έχει για τον τελικό χρήστη του συστήματος μία από τις απαιτήσεις του συστήματος.
 
 **Technical priority**
 
@@ -33,4 +33,12 @@ It is the most common image format for storing and transmitting photographic ima
 **Want_to_read list**
 
 It is the list that users can create with books they want to read later.
+
+**Users DB**
+
+It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviwes and ratings.
+
+**Books DB**
+
+Books DB contains all the necessary data for the books of the shop, sach as each book's title, price, author, category and rating.
 
