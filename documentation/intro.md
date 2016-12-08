@@ -8,7 +8,7 @@ Introduction section describing the application and the business requirements.
 
 **Term 1**
 
-User: He is the registered user of the system. Registered users only can upload and download a book, write a review, rate and make a want_to_read list. 
+User: He is the registered user of the system. Registered users only can upload and download a book, write a review, give rating and make a want_to_read list. 
 
 **Term 2** 
 
@@ -48,7 +48,7 @@ Download: The transfer of the book from the system to user's computer.
 
 **Term 11**
 
-Subscribe: By subscribing to other users, user gets notified by other user's actions such as uploads, downloads,ratings that have been given, critics that have been left and books that have been added to the want_to_read list.
+Subscribe: By subscribing to other users, user gets notified by other user's actions such as uploads, downloads,ratings that have been given, reviews that have been left and books that have been added to the want_to_read list.
 
 **Term 12**
 
