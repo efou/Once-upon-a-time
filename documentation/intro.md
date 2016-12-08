@@ -60,17 +60,29 @@ Want_to_read list: It is the list that users can create with books they want to 
 
 **Term 14**
 
+PayPal: PayPal is a Web-based application for the secure transfer of funds between member accounts. PayPal allows customers to establish an account on its website, which is connected to a user's credit card or checking account and make online purchases safer.
+
+**Term 15** 
+
+Swear words: The forbidden words are: shit, piss, fuck, cunt, cocksucker, motherfucker, and tits.  When a user uses these words the system doesn't permit the action
+ 
+**Term 16*
+
+Desired fields: They are the filters that users can use to limit the number of books that show up on homepage. The available desired fields are the category, the language and the rating of the books. 
+
+**Term 17**
+
 User priority: The importance of each requirement of the system for the user.
 
-**Term 15**
+**Term 18**
 
 Technical priority: The importance of each requirement of the system regarding the technical implementation. 
 
-**Term 16**
+**Term 19**
 
 Users DB: It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviwes and ratings.
 
-**Term 17**
+**Term 20**
 
 Books DB: Books DB contains all the necessary data for the books of the shop, sach as each book's title, price, author, category and rating.
 
