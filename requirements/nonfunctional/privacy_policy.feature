@@ -1,1 +1,1 @@
-Feature: The system should take action to protect the privacy policy in accordance with applicable law
+Feature: The system's privacy policy should be in accordance with applicable law
