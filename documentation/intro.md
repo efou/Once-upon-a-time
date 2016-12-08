@@ -8,7 +8,7 @@ Introduction section describing the application and the business requirements.
 
 **Term 1**
 
-User:He is the registered user of the system. Registered users only can upload and download a book, write a review, rate and make a want_to_read list. 
+User: He is the registered user of the system. Registered users only can upload and download a book, write a review, rate and make a want_to_read list. 
 
 **Term 2** 
 
