@@ -18,6 +18,14 @@ Administrator: He is responsible for the proper functioning of the system. The a
 
 System: It is the software project we have undertaken to implement.
 
+**Term 3**
+
+Update: The transfer of the book from user's computer to the system.
+
+**Term 3**
+
+Update: The transfer of the book from the system to user's computer.
+
 **Term 4**
 
 User priority: The importance of each requirement of the system for the user.
