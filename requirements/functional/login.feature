@@ -1,13 +1,13 @@
-Feature: User should log in to the system
+Feature: User should login to the system
 
   Scenario: with no account
     Given no verified account
-    Then users doesn't log in
+    Then user doesn't login
     And a registration platform pops-up
     
   Scenario: with an account
     Given a verified account
-    Then the system asks from user his username and password
+    Then the system asks from user his username and his password
     
   Scenario: right personal data
     Given user's data is right
@@ -15,7 +15,7 @@ Feature: User should log in to the system
 
   Scenario: wrong personal data
     Given user's data is not right
-    Then the system asks user to retry
+    Then the system asks from user to retry
     
   Scenario: forgot password
     Given user's data is not right 5 times
