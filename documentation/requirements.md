@@ -630,9 +630,10 @@ The system should not allow swear words
 
 **Description**
 
-When a user make a critic for a book or sends a message, he shouldn't use swear words. There is a list of words in the system that are not allowed to be used
+When a user makes a critic for a book or sends a message, he is not allowed to use swear words. There is a list of forbidden words: shit, piss, fuck, cunt, cocksucker, motherfucker, and tits.
 
 **User Priority:**  5/5 This requirement is very important for the user, as he can communicate with other users politely.
+
 **Technical Priority:** 4/5 There is some difficulty for OA team to make the list of swear words correctly.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/swear%20words.feature
