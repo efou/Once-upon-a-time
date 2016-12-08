@@ -18,58 +18,59 @@ Administrator: He is responsible for the proper functioning of the system. The a
 
 System: It is the software project we have undertaken to implement.
 
-**Term 3**
+**Term 4**
 
 Register: It is the process to create an account
 
-**Term 3**
+**Term 5**
 
 Login: It is the process by which user gains access to the system by identifying himself.
 
-**Term 3**
+**Term 6**
 
 Logout: It is the process by which user stops  being connected to the system.
 
-**Term 3**
+**Term 7**
 
 User profile: It is a record of user-specific data that define the user's working environment.
 
-**Term 3**
+**Term 8**
 
 Username: It is a unique sequence of characters used to identify a user and allow access to the system.
 
-**Term 3**
+**Term 9**
 
 Upload: The transfer of the book from user's computer to the system.
 
-**Term 3**
+**Term 10**
 
 Download: The transfer of the book from the system to user's computer.
 
-**Term 3**
+**Term 11**
 
 Subscribe: By subscribing to other users, user gets notified by other user's actions such as uploads, downloads,ratings that have been given, critics that have been left and books that have been added to the want_to_read list.
 
-**Term 6**
+**Term 12**
 
 .jpeg file: It is the most common image format for storing and transmitting photographic images.
 
-**Term 7**
+**Term 13**
 
 Want_to_read list: It is the list that users can create with books they want to read later.
 
-**Term 4**
+**Term 14**
 
 User priority: The importance of each requirement of the system for the user.
 
-**Term 5**
+**Term 15**
 
 Technical priority: The importance of each requirement of the system regarding the technical implementation. 
-**Term 8**
+
+**Term 16**
 
 Users DB: It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviwes and ratings.
 
-**Term 9**
+**Term 17**
 
 Books DB: Books DB contains all the necessary data for the books of the shop, sach as each book's title, price, author, category and rating.
 
