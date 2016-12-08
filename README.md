@@ -23,7 +23,7 @@ Links to the documents you have created
 
   1. [Introduction](https://github.com/efou/Once-upon-a-time/blob/master/documentation/intro.md)
   2. [User Requirements](https://github.com/efou/Once-upon-a-time/blob/master/documentation/requirements.md)
-  3. [demo-storyboard](https://github.com/efou/Once-upon-a-time/blob/master/documentation/demo-storyboard.md)
+  3. [Demo-storyboard](https://github.com/efou/Once-upon-a-time/blob/master/documentation/demo-storyboard.md)
   4. [Functional Requirements](https://github.com/efou/Once-upon-a-time/tree/master/requirements/functional)
   5. [Nonfunctional Requirements](https://github.com/efou/Once-upon-a-time/tree/master/requirements/nonfunctional)
   
