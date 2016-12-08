@@ -597,7 +597,7 @@ When a user uploads a book, the title of the book should be unique, otherwise th
 
 ### NFR-15
 
-User should pay for a book via paypal 
+User should pay for a book via PayPal 
 
 **Description**
 
@@ -627,7 +627,7 @@ A user can rate a book if he has downloaded, given he has not already rated it.
 
 ### NFR-17
 
-The system should not allow swear words
+The system should forbid swear words
 
 **Description**
 
