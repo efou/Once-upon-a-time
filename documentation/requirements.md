@@ -390,29 +390,29 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### NFR-1
 
-User should agree for personal use only to register
+User should agree that he will use the content for his own personal to register
 
 **Description**
 
-If a user wants to register he should agree that he will use the content for his own personal so as to provide protection users' uploads.
+If a user wants to register he should agree that he will use the content for his own personal so as to users' uploads protection can be provided.
 
 **User Priority:** 5/5 This requirement is important for the user as it ensures his upload's protection. Dissatisfaction of this requirement probably will prevent people from using the application.
 
-**Technical Priority:** 2/5 There are several well-known and effective methods for the implementation of this requirement. The OA team will not face significant difficulty.
+**Technical Priority:** 2/5 The OA team will not face significant difficulty.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/personal_use.feature
 
 ### NFR-2
 
-The system should respect the privacy policy in accordance with applicable legislation.
+The system's privacy policy should be in accordance with applicable law.
 
 **Description**
 
-If a user wants to register he should agree that he will use the content for his own personal so as to provide protection users' uploads.
+Privacy Policy is an agreement where the system needs to specify what personal data it collects from your users. Privacy Policy agreements should be mandatory by law because system collects data that can be used to identify an individual.
 
 **User Priority:** 5/5 This requirement is important for the user as it ensures protection of his personal data. Dissatisfaction of this requirement probably will prevent people from using the application. 
 
-**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+**Technical Priority:** 2/5 There are several well-known and effective methods for the implementation of this requirement. The OA team will not face significant difficulty
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/privacy_policy.feature
 
@@ -434,7 +434,7 @@ The system should respond within 1 s, otherwise the user should retry the action
 
 ### NFR-4
 
-The system should support an unlimited number of books that can be registered
+The system should support an unlimited number of books 
 
 **Description**
 
