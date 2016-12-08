@@ -6,39 +6,39 @@ Introduction section describing the application and the business requirements.
 
 ## Glossary
 
-**User**
+**Term 1**
 
-He is the registered user of the system. Registered users only can upload and download a book, write a review, rate and make a want_to_read list. 
+User:He is the registered user of the system. Registered users only can upload and download a book, write a review, rate and make a want_to_read list. 
 
-**Administrator** 
+**Term 2** 
 
-The administrator is responsible for the proper functioning of the system. The administrator approves the registration material and feedback. He approves or denies books' uploads and payments.
+Administrator: He is responsible for the proper functioning of the system. The administrator approves the registration material and feedback. He approves or denies books' uploads and payments.
 
-**System**
+**Term 3**
 
-It is the software project we have undertaken to implement.
+System: It is the software project we have undertaken to implement.
 
-**User priority**
+**Term 4**
 
-Η προτεραιότητα/σημασία που έχει για τον τελικό χρήστη του συστήματος μία από τις απαιτήσεις του συστήματος.
+User priority: The importance of each requirement of the system for the user.
 
-**Technical priority**
+**Term 5**
 
-Η προτεραιότητα/σημασία ως προς την τεχνική υλοποίηση του συστήματος μίας από τις απαιτήσεις του.
+Technical priority: The importance of each requirement of the system regarding the technical implementation. 
 
-**.jpeg file**
+**Term 6**
 
-It is the most common image format for storing and transmitting photographic images.
+.jpeg file: It is the most common image format for storing and transmitting photographic images.
 
-**Want_to_read list**
+**Term 7**
 
-It is the list that users can create with books they want to read later.
+Want_to_read list: It is the list that users can create with books they want to read later.
 
-**Users DB**
+**Term 8**
 
-It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviwes and ratings.
+Users DB: It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviwes and ratings.
 
-**Books DB**
+**Term 9**
 
-Books DB contains all the necessary data for the books of the shop, sach as each book's title, price, author, category and rating.
+Books DB: Books DB contains all the necessary data for the books of the shop, sach as each book's title, price, author, category and rating.
 
