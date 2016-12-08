@@ -1,4 +1,4 @@
-Feature: The system should not allow swear words
+Feature: The system should forbid swear words
 
   Scenario: user uses swear words
     Given user uses swear words
