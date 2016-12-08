@@ -509,7 +509,7 @@ If user has made 5 failed login attempts for his account the system sends a mess
 
 ### NFR-9
 
-User should filter the books that showed up on homepage by "desired fields"
+User should filter the books that show up on homepage by desired fields
 
 **Description**
 
