@@ -1,4 +1,4 @@
-Feature: User should filter the books that showed up on homepage by desired fields
+Feature: User should filter the books that show up on homepage by desired fields
 
   Scenario: books are filtered by category on homepage
     Given user filters the books that showed up on homepage by category
