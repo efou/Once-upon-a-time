@@ -1,4 +1,4 @@
-Feature: User should agree for personal use only to register
+Feature: User should agree that he will use the content for his own personal to register
 
   Scenario: user agrees
     Given user wants to register
