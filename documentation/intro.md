@@ -20,19 +20,35 @@ System: It is the software project we have undertaken to implement.
 
 **Term 3**
 
-Update: The transfer of the book from user's computer to the system.
+Register: It is the process to create an account
 
 **Term 3**
 
-Update: The transfer of the book from the system to user's computer.
+Login: It is the process by which user gains access to the system by identifying himself.
 
-**Term 4**
+**Term 3**
 
-User priority: The importance of each requirement of the system for the user.
+Logout: It is the process by which user stops  being connected to the system.
 
-**Term 5**
+**Term 3**
 
-Technical priority: The importance of each requirement of the system regarding the technical implementation. 
+User profile: It is a record of user-specific data that define the user's working environment.
+
+**Term 3**
+
+Username: It is a unique sequence of characters used to identify a user and allow access to the system.
+
+**Term 3**
+
+Upload: The transfer of the book from user's computer to the system.
+
+**Term 3**
+
+Download: The transfer of the book from the system to user's computer.
+
+**Term 3**
+
+Subscribe: By subscribing to other users, user gets notified by other user's actions such as uploads, downloads,ratings that have been given, critics that have been left and books that have been added to the want_to_read list.
 
 **Term 6**
 
@@ -42,6 +58,13 @@ Technical priority: The importance of each requirement of the system regarding t
 
 Want_to_read list: It is the list that users can create with books they want to read later.
 
+**Term 4**
+
+User priority: The importance of each requirement of the system for the user.
+
+**Term 5**
+
+Technical priority: The importance of each requirement of the system regarding the technical implementation. 
 **Term 8**
 
 Users DB: It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviwes and ratings.
