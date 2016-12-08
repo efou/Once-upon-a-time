@@ -88,6 +88,7 @@ User can change his personal data like username, name, birthday and biography.
 
 **Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
 
+#### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/edit_data.feature
 
 ### FR-7
 
