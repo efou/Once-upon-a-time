@@ -8,6 +8,7 @@
 ## Abstract
 
 A web page where all the writers upon the world can upload their own work.
+Fiction literature offering stories, novels, fables, fairy tales, drama, mystery, fantasy, westerns. Just pick what you prefer
 
 ## Table of Contents
 
