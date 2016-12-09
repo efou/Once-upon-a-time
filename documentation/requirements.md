@@ -13,7 +13,7 @@ If user has a facebook or a google plus account the registration will be done wi
 
 **User Priority:** 4/5 The possibility of a certificated account concerns all users.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/register.feature
 
@@ -27,7 +27,7 @@ User should hace a verified account be able to use all the functions of the appl
 
 **User Priority:** 5/5 This requirement concerns user, because it defines the possibility of using the application.
 
-**Technical Priority:** 2/5 The OA team have to exert very little effort to satisfy this requirement.
+**Technical Priority:** 2/5 The development team have to exert very little effort to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/login.feature
 
@@ -41,7 +41,7 @@ User can pick the language he uses for the application, and what he selects will
 
 **User Priority:** 5/5 Although the application intended for use in Greece, the satisfaction of this requirement is considered inevitable.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/language.feature
 
@@ -56,7 +56,7 @@ User can upload a photograph that will be displayed on his profile.
 
 **User Priority:** 3/5 This requirement facilitates the user so concerns him directly.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/photo.feature
 
@@ -71,7 +71,7 @@ User can create a username that will be displayed on his profile and with which 
 
 **User Priority:** 4/5 This requirement greatly facilitates the user so concerns him directly.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/username.feature
 
@@ -86,7 +86,7 @@ User can change his personal data like username, name, birthday and biography.
 
 **User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/edit_data.feature
 
@@ -100,7 +100,7 @@ User can change his password, given that he writes correctly the previous passwo
 
 **User Priority:**  4/5 The possibility of changing the password concerns all users.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/change_password.feature
 
@@ -115,7 +115,7 @@ User can see on the main web page of the website all the titles from the books.
 
 **User Priority:**  5/5 This requirement is important for the user.
 
-**Technical Priority:** 4/5 The OA team should pay attention for the implementation of this requirement
+**Technical Priority:** 4/5 The development team should pay attention for the implementation of this requirement
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/homepage.feature
 
@@ -130,7 +130,7 @@ User can search a book with a keyword and the system shows a list of titles that
 
 **User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
 
-**Technical Priority:** 4/5 The OA team should pay attention to achieve this function.
+**Technical Priority:** 4/5 The development team should pay attention to achieve this function.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/search.feature
 
@@ -145,7 +145,7 @@ User can create a list named "want to read" with the books he wants to read late
 
 **User Priority:**  4/5 This requirement greatly facilitates the user so concerns him directly.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/create_a_list.feature
 
@@ -161,7 +161,7 @@ User can read a summary a book so as to decide if he wants it to buy it.
 
 **User Priority:**  5/5 This requirement is very important for the user.
 
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 1/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/summary.feature
 
@@ -177,7 +177,7 @@ User can buy a book he wants to read. He should approve for downloading the book
 
 **User Priority:**  2/5 This requirement mainly contributes to usability of the application, but without limiting the user.
 
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 1/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/buy.feature
 
@@ -193,7 +193,7 @@ User should pay for a book so as to download it. He prompts to view the order an
 
 **User Priority:**  2/5 This requirement mainly contributes to usability of the application.
 
-**Technical Priority:** 3/5 There is some particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 3/5 There is some particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/payment.feature
 
@@ -209,7 +209,7 @@ User can download a book given that he pays for it and he agrees for personal, n
 
 **User Priority:**  2/5 This requirement mainly contributes to usability of the application.
 
-**Technical Priority:** 3/5 There is some particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 3/5 There is some particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/download.feature
 
@@ -225,7 +225,7 @@ User can write a critic for a book, given that he has downloaded it.
 
 **User Priority:**  3/5 This requirement contributes to usability of the application and concerns user.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/critic.feature
 
@@ -241,7 +241,7 @@ User can rate a book, given that he has downloaded it.
 
 **User Priority:**  3/5 This requirement contributes to usability of the application and concerns user.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/rate.feature
 
@@ -257,7 +257,7 @@ User can communicate with the author of a book, so as to ask him information, to
 
 **User Priority:**  4/5 This requirement is important for the user.
 
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 1/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/message_author.feature
 
@@ -273,7 +273,7 @@ A registered user who is logged in the system can upload his personal book, give
 
 **User Priority:**  5/5 This requirement is very important for the user.
 
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 1/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/upload.feature
 
@@ -289,7 +289,7 @@ A registered user who has uploaded a book should have the possibility of deletin
 
 **User Priority:**  5/5 This requirement is very important for the user.
 
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 1/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete.feature
 
@@ -304,7 +304,7 @@ User can subscribe other users so as to get notified by other user's actions, li
 
 **User Priority:** 5/5 This requirement concerns the user, as he can find books he may like.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/subscribe.feature
 
@@ -320,7 +320,7 @@ User can receive a message by other users and he selects to reply or not.
 
 **User Priority:**  5/5 This requirement concerns the user, as he can communicate with other users.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/receive_message.feature
 
@@ -336,7 +336,7 @@ User can be disconnected from the system when he no longer needs its services or
 
 **User Priority:**  3/5 Significant request, although user does not usually give great importance.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/logout.feature
 
@@ -352,7 +352,7 @@ User can delete his account when he no longer needs system's services. The syste
 
 **User Priority:**  3/5 Significant request, although user does not usually give great importance.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete_account.feature
 
@@ -399,7 +399,7 @@ If a user wants to register he should agree that he will use the content for his
 
 **User Priority:** 5/5 This requirement is important for the user as it ensures his upload's protection. Dissatisfaction of this requirement probably will prevent people from using the application.
 
-**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+**Technical Priority:** 2/5 The development team will not face significant difficulty.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/personal_use.feature
 
@@ -413,7 +413,7 @@ Privacy Policy is an agreement where the system needs to specify what personal d
 
 **User Priority:** 5/5 This requirement is important for the user as it ensures protection of his personal data. Dissatisfaction of this requirement probably will prevent people from using the application. 
 
-**Technical Priority:** 2/5 There are several well-known and effective methods for the implementation of this requirement. The OA team will not face significant difficulty
+**Technical Priority:** 2/5 There are several well-known and effective methods for the implementation of this requirement. The development team will not face significant difficulty
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/privacy_policy.feature
 
@@ -428,7 +428,7 @@ The system should respond within 1 s, otherwise the user should retry the action
 
 **User Priority:** 5/5 This requirement is important for the user as it releases himo from time-consuming procedures and contributes to the usability of the application.
 
-**Technical Priority:** 3/5 The OA team will not face significant difficulty.
+**Technical Priority:** 3/5 The development team will not face significant difficulty.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/systems_response.feature
 
@@ -443,7 +443,7 @@ Practically the number of books that can be registered in the system should be v
 
 **User Priority:** 4/5  The greater the number of books that are registered in the system, the better for the users.
 
-**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+**Technical Priority:** 2/5 The development team will not face significant difficulty.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_books.feature
 
@@ -458,7 +458,7 @@ Practically the number of users who can use the system simultaneously will be ve
 
 **User Priority:** 1/5  Users are not interested if the system simultaneously used by many other users or not.
 
-**Technical Priority:** 4/5 The implementation of this requirement is very important and difficult by OA team.
+**Technical Priority:** 4/5 The implementation of this requirement is very important and difficult by development team.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unlimited_users.feature
 
@@ -473,7 +473,7 @@ Password should contain both letters and numbers so as to be strong and highly s
 
 **User Priority:**  5/5 This requirement the strong password is the key for protecting personal data and assets online
 
-**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+**Technical Priority:** 2/5 The development team will not face significant difficulty.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/password.feature
 
@@ -488,7 +488,7 @@ Password should not contain username so as to be strong and highly secure.
 
 **User Priority:**  5/5 This requirement is important for the user because the strong password is the key for protecting personal data and assets online
 
-**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+**Technical Priority:** 2/5 The development team will not face significant difficulty.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/password_username.feature
 
@@ -503,7 +503,7 @@ If user has made 5 failed login attempts for his account the system sends a mess
 
 **User Priority:**  5/5 This requirement is important for the user for his protection.
 
-**Technical Priority:** 2/5 The OA team will not face significant difficulty.
+**Technical Priority:** 2/5 The development team will not face significant difficulty.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/password_5times.feature
 
@@ -518,7 +518,7 @@ User can filter the books that showed up on homepage by category, by language an
 
 **User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
 
-**Technical Priority:** 4/5 The OA team should pay attention to achieve this function.
+**Technical Priority:** 4/5 The development team should pay attention to achieve this function.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/homepage_filter.feature
 
@@ -533,7 +533,7 @@ User should upload their profile picture as jpeg file and not as png file. The p
 
 **User Priority:**  5/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
 
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 1/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/jpeg.feature
 
@@ -547,7 +547,7 @@ User should upload a photograph that is up to 2Mb
 
 **User Priority:**  5/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/picture2Mb.feature
 
@@ -563,7 +563,7 @@ User should upload a book that is up to 30 Mb
 
 **User Priority:**  5/5 This requirement is very important for the user because his upload sould fulfill the requirements.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/uploadMb.feature
 
@@ -577,7 +577,7 @@ When a user uploads a book, he should charge it less than 40 euro. In this way t
 
 **User Priority:**  4/5 This requirement is important for the user.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/price.feature
 
@@ -591,7 +591,7 @@ When a user uploads a book, the title of the book should be unique, otherwise th
 
 **User Priority:**  3/5 This requirement is not very important for the user.
 
-**Technical Priority:** 2/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/unique_title.feature
 
@@ -605,7 +605,7 @@ If user wants to buy a book, he should have a paypal account beacuse PayPal keep
 
 **User Priority:**  5/5 This requirement is important for the user, as he has to have PayPal account to buy a book.
 
-**Technical Priority:** 1/5 There is no particular difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 1/5 There is no particular difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/paypal.feature
 
@@ -620,7 +620,7 @@ A user can rate a book if he has downloaded, given he has not already rated it.
 
 **User Priority:**  2/5 This requirement is not very important for the user, as he can rate a book once. 
 
-**Technical Priority:** 3/5 There is some difficulty for OA team to satisfy this requirement.
+**Technical Priority:** 3/5 There is some difficulty for development team to satisfy this requirement.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/rate_once.feature
 
@@ -635,6 +635,6 @@ When a user makes a critic for a book or sends a message, he is not allowed to u
 
 **User Priority:**  5/5 This requirement is very important for the user, as he can communicate with other users politely.
 
-**Technical Priority:** 4/5 There is some difficulty for OA team to make the list of swear words correctly.
+**Technical Priority:** 4/5 There is some difficulty for development team to make the list of swear words correctly.
 
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/nonfunctional/swear%20words.feature
