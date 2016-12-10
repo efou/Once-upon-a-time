@@ -37,9 +37,9 @@ User should change system's language
 
 **Description**
 
-User can pick the language he uses for the application, and what he selects will apply to all application's products. Initially the application have Greek as default language, but it is necessary to have at least an international language.
+User can pick the language he uses for the application, and what he selects will apply to all application's products. Initially the application have English as default language, but it is necessary to have languages spoken around the world, such as French, German and Spanish.
 
-**User Priority:** 5/5 Although the application intended for use in Greece, the satisfaction of this requirement is considered inevitable.
+**User Priority:** 5/5 Although English is an international language, the satisfaction of this requirement is considered inevitable.
 
 **Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
