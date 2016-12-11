@@ -66,7 +66,7 @@ PayPal: PayPal is a Web-based application for the secure transfer of funds betwe
 
 Swear words: The forbidden words are: shit, piss, fuck, cunt, cocksucker, motherfucker, and tits.  When a user uses these words the system doesn't permit the action
  
-**Term 16*
+**Term 16**
 
 Desired fields: They are the filters that users can use to limit the number of books that show up on homepage. The available desired fields are the category, the language and the rating of the books. 
 
