@@ -23,7 +23,7 @@ User should log in to the system
 
 **Description**
 
-User should hace a verified account be able to use all the functions of the application.
+User should have a verified account be able to use all the functions of the application.
 
 **User Priority:** 5/5 This requirement concerns user, because it defines the possibility of using the application.
 
