@@ -2,6 +2,17 @@
 
 ## Scope
 
+The aim of this project is to create an Internet platform that will enable read access to user's works and more. Once_upon_a_time allows individuals to freely search site's extensive database of others users' books, annotations, and reviews. Users can sign up and register to generate reading lists, buy and download books. They can also upload their work and make their dream come true. 
+
+The almost universal access to the Internet allows and perhaps makes necessary the implementationn of this system.  There is a number of people looking to discover new content on Once_upon_a_time, so the platform will create a mutually beneficial feedback loop that will breathe new life into both the site and the web. This system is intended to work only with authorized users.
+
+For the users who want to read new books, they can search by categories or with keywords. When they find the book they like, they can either click on “want to read”, or buy the book, rate it and write a review.
+
+For the users who want to publish their books and reach readers around the world, they can upload their work with a title and set prices. . When placing books for sale on internet, you can attract many readers.
+
+
+
+
 Introduction section describing the application and the business requirements.
 
 ## Glossary
