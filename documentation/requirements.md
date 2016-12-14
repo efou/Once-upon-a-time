@@ -357,26 +357,6 @@ User can delete his account when he no longer needs system's services. The syste
 #### User story: https://github.com/efou/Once-upon-a-time/blob/master/requirements/functional/delete_account.feature
 
 
-
-
-
-
-
-
-
-
-
-
-#### User story
-
-Create here the related feature/user story based on BDD and the Gherkin syntax (https://github.com/cucumber/cucumber/wiki/Gherkin). Do that by putting a link to the relevant feature file.
-
-
-
-
-
-
-
 ## Use case diagram
 
 ![Preview](
@@ -384,46 +364,72 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 
 ## Activity diagrams
 
+###Download
+
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182694/0ceb24ae-c20d-11e6-8095-453e5d919c97.png)
+
+
+###Change Password
+
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182695/0ced21f0-c20d-11e6-8639-7d04ae6a11e2.png)
+
+###Register
+
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182696/0cf0c47c-c20d-11e6-9446-dc91e9af398d.png)
+
+###Search
+
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182697/0cf40bd2-c20d-11e6-9afe-c2aa128ea752.png)
+
+###Upload
+
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182698/0cf8700a-c20d-11e6-9a70-5d7f0b820993.png)
 
 
 
 ## Mockups and Storyboards
 
+###My downloads
+
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182584/8bd6a730-c20c-11e6-9470-9f25cba1cbb0.jpg)
 
+###Edit data
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182588/8c22eb7c-c20c-11e6-8366-9195d012af8b.jpg)
 
+###Homepage
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182587/8c1d6080-c20c-11e6-95d7-49f5beffdb6c.jpg)
 
-
+###Message to author
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182590/8c2a9ec6-c20c-11e6-83a6-b1eb5920a447.jpg)
 
+###Payment
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182592/8c3181c8-c20c-11e6-8e90-8007f5da4fce.jpg)
 
+###Register
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182589/8c29d8ec-c20c-11e6-8178-cd55b45750e8.jpg)
 
+###Sign in 
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182586/8bfaee10-c20c-11e6-8aef-76daeed1dd89.jpg)
 
+###Book summary
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182591/8c2e799c-c20c-11e6-8aa4-ec666e2f0173.jpg)
 
+###Uploads
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182593/8c42d266-c20c-11e6-8f1f-1e4aa5fd4265.jpg)
 
+###Upload
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182594/8c495276-c20c-11e6-9bd0-95a4177b9def.jpg)
 
+###"Want to read" list
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182595/8c51819e-c20c-11e6-87e6-63abe5ac3543.jpg)
 
