@@ -371,6 +371,12 @@ User can delete his account when he no longer needs system's services. The syste
 
 Create here the related feature/user story based on BDD and the Gherkin syntax (https://github.com/cucumber/cucumber/wiki/Gherkin). Do that by putting a link to the relevant feature file.
 
+
+
+![GitHub Logo](C:\Users\efou2\Documents\σχολη\Τεχνικές ανάπτυξης και σχεδίασης λογισμικού\Εργασια\storyboards\change password.png)
+
+
+
 ## Use case diagram
 
 Representation of all users and user stories/use cases
