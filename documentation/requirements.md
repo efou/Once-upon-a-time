@@ -373,7 +373,6 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 
 
 
-![GitHub Logo](C:\Users\efou2\Documents\σχολη\Τεχνικές ανάπτυξης και σχεδίασης λογισμικού\Εργασια\storyboards\change password.png)
 
 
 
