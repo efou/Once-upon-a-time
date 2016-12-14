@@ -386,6 +386,7 @@ Create activity diagrams to portray the flow of basic user process in the system
 
 ## Mockups and Storyboards
 
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182584/8bd6a730-c20c-11e6-9470-9f25cba1cbb0.jpg)
 Put the link to the relevant storyboard.md files that display how one goes from one mockup to another.
 
 
