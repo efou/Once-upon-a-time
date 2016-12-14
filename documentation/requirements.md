@@ -376,13 +376,21 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 
 
 
+
 ## Use case diagram
 
-Representation of all users and user stories/use cases
+![Preview](
+
 
 ## Activity diagrams
 
-Create activity diagrams to portray the flow of basic user process in the system.
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182694/0ceb24ae-c20d-11e6-8095-453e5d919c97.png)
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182695/0ced21f0-c20d-11e6-8639-7d04ae6a11e2.png)
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182696/0cf0c47c-c20d-11e6-9446-dc91e9af398d.png)
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182697/0cf40bd2-c20d-11e6-9afe-c2aa128ea752.png)
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182698/0cf8700a-c20d-11e6-9a70-5d7f0b820993.png)
+
+
 
 ## Mockups and Storyboards
 
