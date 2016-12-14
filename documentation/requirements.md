@@ -387,6 +387,38 @@ Create activity diagrams to portray the flow of basic user process in the system
 ## Mockups and Storyboards
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182584/8bd6a730-c20c-11e6-9470-9f25cba1cbb0.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182588/8c22eb7c-c20c-11e6-8366-9195d012af8b.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182587/8c1d6080-c20c-11e6-95d7-49f5beffdb6c.jpg)
+
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182590/8c2a9ec6-c20c-11e6-83a6-b1eb5920a447.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182592/8c3181c8-c20c-11e6-8e90-8007f5da4fce.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182589/8c29d8ec-c20c-11e6-8178-cd55b45750e8.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182586/8bfaee10-c20c-11e6-8aef-76daeed1dd89.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182591/8c2e799c-c20c-11e6-8aa4-ec666e2f0173.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182593/8c42d266-c20c-11e6-8f1f-1e4aa5fd4265.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182594/8c495276-c20c-11e6-9bd0-95a4177b9def.jpg)
+
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182595/8c51819e-c20c-11e6-87e6-63abe5ac3543.jpg)
+
 Put the link to the relevant storyboard.md files that display how one goes from one mockup to another.
 
 
