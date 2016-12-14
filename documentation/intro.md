@@ -21,9 +21,11 @@ Up to now, if we have written a book, we could get published the traditional way
 Up to now, it was quite hard to find a 'good' book, but now there is an extensive database of others books, annotations, and reviews so all users can find an interesting book.
 
 **BR-3: Price of e-books**
+
 The only way for bookstores to stay afloat is to sell items at a huge markup, because of rent, utilities, and a brigade of book-reading workers. With this platform users can buy books for less.
 
 **BR-4: Summary of books**
+
 In the past, bookstores did have one clear advantage over online retailers. You could read the summary of a book before you purchased it. But in the e-book age that advantage has slipped away. This platform let you sample the summary of every digital title they carry, and you can do so without leaving your couch.
 
 ## Glossary
