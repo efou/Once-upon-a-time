@@ -1,4 +1,4 @@
-Feature: User should see all the titles from the books of the system on homepage
+Feature: User must see all the titles from the books of the system on homepage
 
   Scenario: user filter books by desired fields on homepage
     Given user filters the books that show up on homepage by desired fields
