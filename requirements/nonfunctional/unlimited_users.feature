@@ -1,1 +1,1 @@
-Feature: The system should support an unlimited number of connected users.
+Feature: The system must support an unlimited number of connected users.
