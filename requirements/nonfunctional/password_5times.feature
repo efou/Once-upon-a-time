@@ -1,4 +1,4 @@
-Feature: User should try only 5 times to login with invalid personal data
+Feature: User must try only 5 times to login with invalid personal data
 
   Scenario: User tries to login with invalid personal data more than 5 times
     Given user tries to login with invalid personal data more than 5 times
