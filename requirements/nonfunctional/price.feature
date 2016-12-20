@@ -1,4 +1,4 @@
-Feature: a book should cost less than 40 euros
+Feature: a book must cost less than 40 euros
 
   Scenario: a book cost less than 40 euros
       Given user charge for a book less than 40 euros
