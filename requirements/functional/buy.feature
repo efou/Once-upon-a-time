@@ -1,4 +1,4 @@
-Feature: User should buy a book
+Feature: User must buy a book
   
   Scenario: user buys the book
     Given user wants to buy a book 
