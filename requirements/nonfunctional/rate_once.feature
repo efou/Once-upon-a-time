@@ -1,4 +1,4 @@
-Feature: The system should permit users to rate only once per book
+Feature: The system must permit users to rate only once per book
 
   Scenario: user has not rated the book
     Given user has downloaded the book 
