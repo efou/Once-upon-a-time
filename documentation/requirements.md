@@ -359,7 +359,7 @@ User can delete his account when he no longer needs system's services. The syste
 
 ## Use case diagram
 
-![Preview](
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21345513/3b132408-c6a9-11e6-864a-9cd1cc7d625e.jpg)
 
 
 ## Activity diagrams
