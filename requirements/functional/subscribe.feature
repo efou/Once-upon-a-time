@@ -1,4 +1,4 @@
-Feature: User should subscribe other users
+Feature: User must subscribe other users
 
   Scenario: User subscribes other users
     Given user subscribes other users
