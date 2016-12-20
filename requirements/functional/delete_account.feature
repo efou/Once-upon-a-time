@@ -1,4 +1,4 @@
-Feature: User should delete his account
+Feature: User must delete his account
 
   Scenario: user wants delete the account
     Given user selects to delete his account 
