@@ -1,4 +1,4 @@
-Feature: User should change password
+Feature: User must change password
 
   Scenario: right previous password
     Given the previous password is right
