@@ -1,4 +1,4 @@
-Feature: User should pay for a book
+Feature: User must pay for a book
   
   Scenario: user agrees with the payment 
     Given the order summary is shown
