@@ -5,6 +5,10 @@
 - Author 1: Efi Giannakou
 - Author 2: Maria Pantehou
 
+
+![Preview] (https://cloud.githubusercontent.com/assets/23653311/21348569/5ff712d6-c6b6-11e6-9e24-da62493d7271.jpg)
+
+
 ## Abstract
 
 *A web page where all the writers upon the world can upload their own work.*
