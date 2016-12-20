@@ -1,4 +1,4 @@
-Feature: User should upload their personal book
+Feature: User must upload their personal book
 
   Scenario: user is logged in the system
     Given user is logged in the system 
