@@ -1,4 +1,4 @@
-Feature: User should must a password that not contains username
+Feature: User must write a password that not contains username
 
   Scenario: Password does not contain username
     Given user submits a password that does not contain username
