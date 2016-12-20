@@ -1,4 +1,4 @@
-Feature: Password should contain both letters and numbers
+Feature: Password must contain both letters and numbers
 
   Scenario: Password contains both letters and numbers
     Given user submits a password that contains both letters and numbers
