@@ -1,4 +1,4 @@
-Feature: user should upload a profile picture up to 2 Mb
+Feature: user must upload a profile picture up to 2 Mb
 
    Scenario: user uploads a picture up to 2 Mb 
      Given  user uploads a picture up to 2 Mb 
