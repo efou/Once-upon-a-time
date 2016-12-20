@@ -1,4 +1,4 @@
-Feature: User should upload their personal book with a unique title
+Feature: User must upload their personal book with a unique title
   
   Scenario: title is already used
     Given the title of their book is already used
