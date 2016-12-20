@@ -1,4 +1,4 @@
-Feature: User should upload a picture on his profile
+Feature: User must upload a picture on his profile
   
   Scenario: user uploads a picture
     Given user wants to upload a picture 
