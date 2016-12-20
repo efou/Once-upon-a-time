@@ -1,4 +1,4 @@
- Feature: User should create a username
+ Feature: User must create a username
  
   Scenario: the username is unique
     Given username is unique
