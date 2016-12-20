@@ -1,4 +1,4 @@
-Feature: User should pay for a book via PayPal 
+Feature: User must pay for a book via PayPal 
 
   Scenario: User already has a PayPal account
     Given user has a PayPal account 
