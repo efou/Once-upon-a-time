@@ -5,13 +5,13 @@
 
 ### FR-1
 
-User should register in the system
+User must register in the system
 
 **Description**
 
 If user has a facebook or a google plus account the registration will be done with these accounts, otherwise he will write an email account and a code and the system will send an email for verification. If user verifies his account, the registration will be done.
 
-**User Priority:** 4/5 The possibility of a certificated account concerns all users.
+**User Priority:** 5/5 The possibility of a certificated account concerns all users.
 
 **Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
@@ -19,11 +19,11 @@ If user has a facebook or a google plus account the registration will be done wi
 
 ### FR-2
 
-User should log in to the system
+User must log in to the system
 
 **Description**
 
-User should have a verified account be able to use all the functions of the application.
+User should have a verified account to be able to use the functions of the application.
 
 **User Priority:** 5/5 This requirement concerns user, because it defines the possibility of using the application.
 
@@ -33,7 +33,7 @@ User should have a verified account be able to use all the functions of the appl
 
 ### FR-3
 
-User should change system's language
+User must change system's language
 
 **Description**
 
@@ -48,7 +48,7 @@ User can pick the language he uses for the application, and what he selects will
 
 ### FR-4
 
-User should upload a picture on his personal profile
+User must upload a picture on his personal profile
 
 **Description**
 
@@ -63,11 +63,11 @@ User can upload a photograph that will be displayed on his profile.
 
 ### FR-5
 
-User should create a username
+User must create a username
 
 **Description**
 
-User can create a username that will be displayed on his profile and with which other users can search him nad his books.
+User can create a username that will be displayed on his profile and with which other users can search him and his books.
 
 **User Priority:** 4/5 This requirement greatly facilitates the user so concerns him directly.
 
@@ -78,7 +78,7 @@ User can create a username that will be displayed on his profile and with which 
 
 ### FR-6
 
-User should edit personal data
+User must edit personal data
 
 **Description**
 
@@ -92,7 +92,7 @@ User can change his personal data like username, name, birthday and biography.
 
 ### FR-7
 
-User should change password
+User must change password
 
 **Description**
 
@@ -107,7 +107,7 @@ User can change his password, given that he writes correctly the previous passwo
 
 ### FR-8
 
-User should see all the titles from the books of the system on homepage
+User must see all the titles from the books of the system on homepage
 
 **Description**
 
@@ -122,7 +122,7 @@ User can see on the main web page of the website all the titles from the books.
 
 ### FR-9
 
-The system should permit user to search books
+The system must permit user to search books
 
 **Description**
 
@@ -137,7 +137,7 @@ User can search a book with a keyword and the system shows a list of titles that
 
 ### FR-10
 
-User should create a list with the books they want to read
+User must create a list with the books they want to read
 
 **Description**
 
@@ -153,11 +153,11 @@ User can create a list named "want to read" with the books he wants to read late
 
 ### FR-11
 
-User should read the summary of the book
+User must read the summary of the book
 
 **Description**
 
-User can read a summary a book so as to decide if he wants it to buy it.
+User can read a summary of a book so as to decide if he wants to buy it.
 
 **User Priority:**  5/5 This requirement is very important for the user.
 
@@ -169,7 +169,7 @@ User can read a summary a book so as to decide if he wants it to buy it.
 
 ### FR-12
 
-User should buy a book
+User must buy a book
 
 **Description**
 
@@ -185,7 +185,7 @@ User can buy a book he wants to read. He should approve for downloading the book
 
 ### FR-13
 
-User should pay for a book
+User must pay for a book
 
 **Description**
 
@@ -201,13 +201,13 @@ User should pay for a book so as to download it. He prompts to view the order an
 
 ### FR-14
 
-User should download a book
+User must download a book
 
 **Description**
 
 User can download a book given that he pays for it and he agrees for personal, non-commercial use to individuals only.
 
-**User Priority:**  2/5 This requirement mainly contributes to usability of the application.
+**User Priority:**  4/5 This requirement mainly contributes to usability of the application.
 
 **Technical Priority:** 3/5 There is some particular difficulty for development team to satisfy this requirement.
 
@@ -217,7 +217,7 @@ User can download a book given that he pays for it and he agrees for personal, n
 
 ### FR-15
 
-User should write a critic for a book
+User must write a critic for a book
 
 **Description**
 
@@ -233,7 +233,7 @@ User can write a critic for a book, given that he has downloaded it.
 
 ### FR-16
 
-The system should permit users to rate 
+The system must permit users to rate 
 
 **Description**
 
@@ -249,7 +249,7 @@ User can rate a book, given that he has downloaded it.
 
 ### FR-17
 
-User should message the author of a book
+User must message the author of a book
 
 **Description**
 
@@ -265,7 +265,7 @@ User can communicate with the author of a book, so as to ask him information, to
 
 ### FR-18
 
-User should upload his personal book
+User must upload his personal book
 
 **Description**
 
@@ -281,7 +281,7 @@ A registered user who is logged in the system can upload his personal book, give
 
 ### FR-19
 
-User should delete a personal upload
+User must delete a personal upload
 
 **Description**
 
@@ -296,13 +296,13 @@ A registered user who has uploaded a book should have the possibility of deletin
 
 ### FR-20
 
-User should subscribe other users
+User must subscribe other users
 
 **Description**
 
-User can subscribe other users so as to get notified by other user's actions, like uploads, downloads, rates, critics and "want to read" lists.
+User can subscribe other users so as to get notified by other user's actions such as uploads, downloads, rates, critics and "want to read" lists.
 
-**User Priority:** 5/5 This requirement concerns the user, as he can find books he may like.
+**User Priority:** 4/5 This requirement concerns the user, as he can find books he may like.
 
 **Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
@@ -312,7 +312,7 @@ User can subscribe other users so as to get notified by other user's actions, li
 
 ### FR-21
 
-User should receive a message by other users
+User must receive a message by other users
 
 **Description**
 
@@ -328,13 +328,13 @@ User can receive a message by other users and he selects to reply or not.
 
 ### FR-22
 
-User should log out of the system
+User must log out of the system
 
 **Description**
 
 User can be disconnected from the system when he no longer needs its services or when another user wants to connect to its own account from the same terminal. The system should provide security to users when they disconnect.
 
-**User Priority:**  3/5 Significant request, although user does not usually give great importance.
+**User Priority:**  5/5 Significant request, although user does not usually give great importance.
 
 **Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
@@ -344,13 +344,13 @@ User can be disconnected from the system when he no longer needs its services or
 
 ### FR-23
 
-User should delete his account
+User must delete his account
 
 **Description**
 
 User can delete his account when he no longer needs system's services. The system asks user to confirm his decision and it should provide security to users when they delete ther account.
 
-**User Priority:**  3/5 Significant request, although user does not usually give great importance.
+**User Priority:**  4/5 Significant request, although user does not usually give great importance.
 
 **Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
@@ -443,7 +443,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### NFR-1
 
-User should agree that he will use the content for his own personal to register
+User must agree that he will use the content for his own personal to register
 
 **Description**
 
@@ -457,7 +457,7 @@ If a user wants to register he should agree that he will use the content for his
 
 ### NFR-2
 
-The system's privacy policy should be in accordance with applicable law.
+The system's privacy policy must be in accordance with applicable law.
 
 **Description**
 
@@ -472,13 +472,13 @@ Privacy Policy is an agreement where the system needs to specify what personal d
 
 ### NFR-3
 
-The system should respond to the actions of the user within 1 s
+The system must respond to the actions of the user within 1 s
 
 **Description**
 
 The system should respond within 1 s, otherwise the user should retry the action. So, the system should be able to perform quick searches in databases.
 
-**User Priority:** 5/5 This requirement is important for the user as it releases himo from time-consuming procedures and contributes to the usability of the application.
+**User Priority:** 5/5 This requirement is important for the user as it releases him from time-consuming procedures and contributes to the usability of the application.
 
 **Technical Priority:** 3/5 The development team will not face significant difficulty.
 
@@ -487,11 +487,11 @@ The system should respond within 1 s, otherwise the user should retry the action
 
 ### NFR-4
 
-The system should support an unlimited number of books 
+The system must support an unlimited number of books 
 
 **Description**
 
-Practically the number of books that can be registered in the system should be very large.
+Practically the number of books that can be registered in the system should be numerous.
 
 **User Priority:** 4/5  The greater the number of books that are registered in the system, the better for the users.
 
@@ -502,11 +502,11 @@ Practically the number of books that can be registered in the system should be v
 
 ### NFR-5
 
-The system should support an unlimited number of books that can be registered
+The system must support an unlimited number of books that can be registered
 
 **Description**
 
-Practically the number of users who can use the system simultaneously will be very large
+Practically the number of users who can use the system simultaneously will be numerous.
 
 **User Priority:** 1/5  Users are not interested if the system simultaneously used by many other users or not.
 
@@ -517,7 +517,7 @@ Practically the number of users who can use the system simultaneously will be ve
 
 ### NFR-6
 
-Password should contain both letters and numbers
+Password must contain both letters and numbers
 
 **Description**
 
@@ -532,7 +532,7 @@ Password should contain both letters and numbers so as to be strong and highly s
 
 ### NFR-7
 
-User should submit a password that not contains username 
+User must submit a password that not contains username 
 
 **Description**
 
@@ -547,7 +547,7 @@ Password should not contain username so as to be strong and highly secure.
 
 ### NFR-8
 
-User should try only 5 times to login with invalid personal data
+User must try only 5 times to login with invalid personal data
 
 **Description**
 
@@ -562,11 +562,11 @@ If user has made 5 failed login attempts for his account the system sends a mess
 
 ### NFR-9
 
-User should filter the books that show up on homepage by desired fields
+User must filter the books that show up on homepage by desired fields
 
 **Description**
 
-User can filter the books that showed up on homepage by category, by language and by popularity.
+User can filter the books that showed up on homepage by category, language and rating.
 
 **User Priority:**  5/5 This requirement greatly facilitates the user so concerns him directly.
 
@@ -577,7 +577,7 @@ User can filter the books that showed up on homepage by category, by language an
 
 ### NFR-10
 
-User should upload their profile picture as jpeg file
+User must upload their profile picture as jpeg file
 
 **Description**
 
@@ -591,13 +591,13 @@ User should upload their profile picture as jpeg file and not as png file. The p
 
 ### NFR-11
 
-User should upload a profile picture up to 2 Mb
+User must upload a profile picture up to 2 Mb 
 
 **Description**
 
-User should upload a photograph that is up to 2Mb
+User should upload a photograph that is up to 2Mb so that the file can be uploaded within a second. Also, this way the system's user database can contain close to unlimited users data.
 
-**User Priority:**  5/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
+**User Priority:**  3/5 This requirement concerns users because profile photo is possibly the first thing people will notice when they visit a page.
 
 **Technical Priority:** 2/5 There is no particular difficulty for development team to satisfy this requirement.
 
@@ -607,11 +607,11 @@ User should upload a photograph that is up to 2Mb
 
 ### NFR-12
 
-User should upload a book up to 30 Mb
+User must upload a book up to 30 Mb
 
 **Description**
 
-User should upload a book that is up to 30 Mb
+User should upload a book that is up to 30 Mb so that system's book database can contain close to unlimited boooks.
 
 **User Priority:**  5/5 This requirement is very important for the user because his upload sould fulfill the requirements.
 
@@ -621,7 +621,7 @@ User should upload a book that is up to 30 Mb
 
 ### NFR-13
 
-A book should cost less than 40 euros
+A book must cost less than 40 euros
 
 **Description**
 
@@ -635,7 +635,7 @@ When a user uploads a book, he should charge it less than 40 euro. In this way t
 
 ### NFR-14
 
-User should upload their personal book with a unique title
+User must upload their personal book with a unique title
 
 **Description**
 
@@ -649,7 +649,7 @@ When a user uploads a book, the title of the book should be unique, otherwise th
 
 ### NFR-15
 
-User should pay for a book via PayPal 
+User must pay for a book via PayPal 
 
 **Description**
 
@@ -664,7 +664,7 @@ If user wants to buy a book, he should have a paypal account beacuse PayPal keep
 
 ### NFR-16
 
-The system should permit users to rate only once per book
+The system must permit users to rate only once per book
 
 **Description**
 
@@ -679,7 +679,7 @@ A user can rate a book if he has downloaded, given he has not already rated it.
 
 ### NFR-17
 
-The system should forbid swear words
+The system must forbid swear words
 
 **Description**
 
