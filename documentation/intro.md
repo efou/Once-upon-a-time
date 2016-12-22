@@ -8,7 +8,7 @@ The almost universal access to the Internet allows and perhaps makes necessary t
 
 For the users who want to read new books, they can search by categories or with keywords. When they find the book they like, they can either click on “want to read”, or buy the book, rate it and write a review.
 
-For the users who want to publish their books and reach readers around the world, they can upload their work with a title and set prices. . When placing books for sale on internet, you can attract many readers.
+For the users who want to publish their books and reach readers around the world, they can upload their work with a title and set prices. When placing books for sale on internet, you can attract many readers.
 
 ## Business Requirements
 
@@ -36,7 +36,7 @@ User: He is the registered user of the system. Registered users only can upload 
 
 **Term 2** 
 
-Administrator: He is responsible for the proper functioning of the system. The administrator approves the registration material and feedback. He approves or denies books' uploads and payments.
+Administrator: He is responsible for the proper functioning of the system. The administrator approves the registration, material and feedback. He approves or denies uploads of books and images.
 
 **Term 3**
 
@@ -104,9 +104,9 @@ Technical priority: The importance of each requirement of the system regarding t
 
 **Term 19**
 
-Users DB: It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviwes and ratings.
+Users DB: It is an organized collection of data of users who are registered in the system, such as each user's username, password, uploads, downloads, reviews and ratings.
 
 **Term 20**
 
-Books DB: Books DB contains all the necessary data for the books of the shop, sach as each book's title, price, author, category and rating.
+Books DB: Books DB contains all the necessary data for the books of the shop, such as each book's title, price, author, category and rating.
 
