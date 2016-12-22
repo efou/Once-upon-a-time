@@ -3,7 +3,7 @@
 ## Authors
 
 - Author 1: Efi Giannakou
-- Author 2: Maria Pantehou
+- Author 2: Maria Pantechou
 
 
 ## Abstract
