@@ -72,7 +72,7 @@ Download: The transfer of the book from the system to user's computer.
 
 **Term 11**
 
-Subscribe: By subscribing to other users, user gets notified by other user's actions such as uploads, downloads,ratings that have been given, reviews that have been left and books that have been added to the want_to_read list.
+Subscribe: The function that user gets notified by other user's actions such as uploads, downloads,ratings, reviews and books that have been added to the want_to_read list.
 
 **Term 12**
 
