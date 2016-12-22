@@ -389,9 +389,13 @@ User can delete his account when he no longer needs system's services. The syste
 
 ## Mockups and Storyboards
 
-###My downloads
+###Register
 
-![Preview](https://cloud.githubusercontent.com/assets/23653311/21182584/8bd6a730-c20c-11e6-9470-9f25cba1cbb0.jpg)
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182589/8c29d8ec-c20c-11e6-8178-cd55b45750e8.jpg)
+
+###Sign in 
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182586/8bfaee10-c20c-11e6-8aef-76daeed1dd89.jpg)
 
 ###Edit data
 
@@ -401,25 +405,14 @@ User can delete his account when he no longer needs system's services. The syste
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182587/8c1d6080-c20c-11e6-95d7-49f5beffdb6c.jpg)
 
-###Message to author
-
-![Preview](https://cloud.githubusercontent.com/assets/23653311/21182590/8c2a9ec6-c20c-11e6-83a6-b1eb5920a447.jpg)
-
-###Payment
-
-![Preview](https://cloud.githubusercontent.com/assets/23653311/21182592/8c3181c8-c20c-11e6-8e90-8007f5da4fce.jpg)
-
-###Register
-
-![Preview](https://cloud.githubusercontent.com/assets/23653311/21182589/8c29d8ec-c20c-11e6-8178-cd55b45750e8.jpg)
-
-###Sign in 
-
-![Preview](https://cloud.githubusercontent.com/assets/23653311/21182586/8bfaee10-c20c-11e6-8aef-76daeed1dd89.jpg)
-
 ###Book summary
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182591/8c2e799c-c20c-11e6-8aa4-ec666e2f0173.jpg)
+
+
+###"Want to read" list
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182595/8c51819e-c20c-11e6-87e6-63abe5ac3543.jpg)
 
 ###Uploads
 
@@ -429,11 +422,24 @@ User can delete his account when he no longer needs system's services. The syste
 
 ![Preview](https://cloud.githubusercontent.com/assets/23653311/21182594/8c495276-c20c-11e6-9bd0-95a4177b9def.jpg)
 
-###"Want to read" list
+###My downloads
 
-![Preview](https://cloud.githubusercontent.com/assets/23653311/21182595/8c51819e-c20c-11e6-87e6-63abe5ac3543.jpg)
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182584/8bd6a730-c20c-11e6-9470-9f25cba1cbb0.jpg)
 
-Put the link to the relevant storyboard.md files that display how one goes from one mockup to another.
+
+###Payment
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182592/8c3181c8-c20c-11e6-8e90-8007f5da4fce.jpg)
+
+
+###Message to author
+
+![Preview](https://cloud.githubusercontent.com/assets/23653311/21182590/8c2a9ec6-c20c-11e6-83a6-b1eb5920a447.jpg)
+
+
+
+
+
 
 
 
